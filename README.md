@@ -26,4 +26,4 @@ Linux zenity ve bash script kullanılarak oluşturulmuş proje uygulamasıdır.
 <img src="https://user-images.githubusercontent.com/92175999/210570956-4a2e435f-716a-4571-a814-da8fd1ea9917.png" />
 
 ## Youtube Linki
-* Projemi detaylı bir şekilde anlattığım videomu ... link üzerinden izleyebilirsiniz.
+* Projemi detaylı bir şekilde anlattığım videomu [Link](https://www.youtube.com/watch?v=0J676qWFly0) üzerinden izleyebilirsiniz.
