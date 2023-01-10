@@ -1,6 +1,7 @@
 # Food-Grocery-App
-## Müşteri Kayıt
 Linux zenity ve bash script kullanılarak oluşturulmuş proje uygulamasıdır. 
+## Müşteri Kayıt
+
 <li>Uygulama çalıştırıldığı anda müşteri kayıt penceresi ekrana gelmektedir.</li>
 <div align="center"> 
   <p> </p>
